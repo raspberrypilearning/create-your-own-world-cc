@@ -53,6 +53,7 @@ title: What you will learn
 - Use variables to store a game's state
 - Use conditional selection based on the value of a variable
 - Use lists to store data
+- Understand the skills which are developed towards a career involving Computing
 
 --- /collapse ---
 
