@@ -16,4 +16,4 @@ Click and drag with the mouse to draw a line with the pencil. Your goal is to st
 ![Cats finished](images/cats-finished.png)
 --- /print-only ---
 
-If you want to make a game using Python instead of Scratch, try out the 'Rock, Paper, Scissors' project in the Python module pathway.
+You can create more games in the Python module such as 'Rock, Paper, Scissors'.
