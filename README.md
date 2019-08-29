@@ -1,14 +1,10 @@
-# create-your-own-world-cc
+# Create your own world
 
-![create-your-own-world-cc](banner.png)
+In this resource, you are going to learn how to make a racing game. The player uses the mouse to navigate a boat to a desert island without bumping into obstacles.
 
-Find the project online at [projects.raspberrypi.org/en/projects/create-your-own-world-cc](https://projects.raspberrypi.org/en/projects/create-your-own-world-cc)
+This repository contains the content for the Create your own world Raspberry Pi project. This project can be viewed at:
 
-## Resources
-For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/create-your-own-world-cc/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/create-your-own-world-cc/tree/master/en/solutions).
+https://projects.raspberrypi.org/en/projects/create-your-own-world 
 
-## Contributing
-See [CONTRIBUTING.md](CONTRIBUTING.md)
+See [LICENCE.md](LICENCE.md) for the project licence, and [CONTRIBUTING.md](CONTRIBUTING.md) for guidance on how to contribute.
 
-## Licence
- See [LICENCE.md](LICENCE.md)
