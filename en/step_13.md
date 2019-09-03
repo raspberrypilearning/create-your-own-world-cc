@@ -17,3 +17,5 @@ Click and drag with the mouse to draw a line with the pencil. Your goal is to st
 --- /print-only ---
 
 You can create more games in the Python module such as 'Rock, Paper, Scissors'.
+
+![progress bar](images/s2-6.png)
