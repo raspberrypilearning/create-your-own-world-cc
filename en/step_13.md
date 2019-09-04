@@ -1,4 +1,4 @@
-## What next?
+## What have you learned?
 
 Have a go at creating another game by working through the 'CATS!' project.
 
