@@ -1,4 +1,4 @@
-## What next?
+## What have you learned?
 
 Have a go at creating another game by working through the 'CATS!' project.
 
@@ -17,3 +17,10 @@ Click and drag with the mouse to draw a line with the pencil. Your goal is to st
 --- /print-only ---
 
 You can create more games in the Python module such as 'Rock, Paper, Scissors'.
+
+![progress bar](images/s2-6.png)
+
+Click on the 'Click me' button to complete the Plenary for this module. Then start another module and learn something completely new:
+
+<a href="hhttps://codeclub.org/en/projects-cc">
+<img src="images/Clickme.png">
