@@ -19,3 +19,8 @@ Click and drag with the mouse to draw a line with the pencil. Your goal is to st
 You can create more games in the Python module such as 'Rock, Paper, Scissors'.
 
 ![progress bar](images/s2-6.png)
+
+Click on the 'Click me' button to try the next project:
+
+<a href="https://codeclub.org/en/projects-cc">
+<img src="images/Clickme.png">
