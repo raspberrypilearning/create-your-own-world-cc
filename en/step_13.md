@@ -22,5 +22,5 @@ You can create more games in the Python module such as 'Rock, Paper, Scissors'.
 
 Click on the 'Click me' button to complete the Plenary for this module. Then start another module and learn something completely new:
 
-<a href="hhttps://codeclub.org/en/scratch2">
+<a href="https://codeclub.org/en/scratch2">
 <img src="images/Clickme.png">
